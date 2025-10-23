@@ -1,4 +1,4 @@
-# dodge-the-pillars-saw-u-game
+# Dodge the Pillars - Saw U Game
 
 ## Goal
 
