@@ -65,7 +65,7 @@ scaled_moving_cloud_image = pygame.transform.smoothscale(moving_cloud_image, (10
 
 # Text for intro & tutorial
 # Heading text
-heading = pygame.font.SysFont("Alice", 50).render("How to play PILLAR DODGE!", True, 'white')
+heading = pygame.font.SysFont("Alice", 50).render("How to Play PILLAR DODGE!", True, 'white')
 
 # Solfege text
 solfege_text = pygame.font.SysFont("Alice", 25).render("Keybinds: Solfege (Do Re Mi)", True, 'white')
