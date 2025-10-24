@@ -514,7 +514,7 @@ sandbox_button = Button((WIN_WIDTH / 2, 450), "SANDBOX", font, "white")
 async def main():
     #-----Main Menu Starts Here----
     while True:
-        pygame.display.set_caption("Menu (press red 'x' in the top left to exit)")
+        pygame.display.set_caption("Menu (press the key 'x' to exit)")
 
         window.blit(scaled_bg_image, (0, 0))
         menu_mouse_pos = pygame.mouse.get_pos()
